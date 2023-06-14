@@ -1,11 +1,9 @@
 * restas
 
+Common Lisp web framework
 
-
-|---------+-------------------------------------------|
-| source  | git:https://github.com/archimag/restas.git
-https://github.com/archimag/restas.git   |
-| commit  |   |
-| systems | restas |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------|
+| source  | git:https://github.com/archimag/restas.git |
+| commit  | 81bbbab                                    |
+| systems | restas                                     |
+|---------+--------------------------------------------|
